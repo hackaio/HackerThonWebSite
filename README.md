@@ -1,2 +1,12 @@
 # HackerThonWebSite
-a website for UVY-Hackerthon organisation
+Official website for Uvy-Hackerthon organisation. you can view it at `http://hackerthon.fahamutech.com`.
+
+# How to contribute
+ - For project repo
+ - Make some changes 
+ - Open a pull request
+ - Then your changes will be merged
+
+# Technology used
+- This project use boostrap 4.x
+- Firebase for hosting
