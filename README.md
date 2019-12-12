@@ -2,7 +2,7 @@
 Official website for Uvy-Hackerthon organisation. you can view it at `http://hackerthon.fahamutech.com`.
 
 # How to contribute
- - For project repo
+ - Fork the project repo
  - Make some changes 
  - Open a pull request
  - Then your changes will be merged
