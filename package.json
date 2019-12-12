@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server ./",
-    "deploy": "firebase deploy --token",
+    "deploy": "firebase deploy --token ${FIREBASE_TOKEN}",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
